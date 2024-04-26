@@ -14,8 +14,8 @@ In addition to the lab tasks, you will find four homework assignments in this re
 ## Structure
 
 - **lab/**: This folder contains lab tasks completed during classes.
-- **homework1/**: Theoretical task - proving the concavity of a function.
-- **homework2/**: Programming task "max-probability-of-loss" from the "Additional Exercises" collection for the Convex Optimization textbook by S. Boyd and L. Vandenberghe.
-- **homework3/**: Homework assignment 3 soon.
-- **homework4/**: Homework assignment 4 soon.
+- **homework1**: Theoretical task - proving the concavity of a function.
+- **homework2**: Programming task "max-probability-of-loss" from the "Additional Exercises" collection for the Convex Optimization textbook by S. Boyd and L. Vandenberghe.
+- **homework3**: Homework assignment 3 soon.
+- **homework4**: Homework assignment 4 soon.
 
