@@ -1,16 +1,5 @@
 # Convex Optimization Repository
 
-Welcome to the Convex Optimization Repository! This repository contains lab tasks and projects from my Convex Optimization class at Warsaw University.
-
-## Labs 
-
-All lab tasks from the Convex Optimization class are available in the [lab](https://github.com/dg7s/ConvexOptimization/tree/master/lab) folder of this repository.
-The original course repository is available at this link [https://github.com/lkowalik/ConvexOptimization2024](https://github.com/lkowalik/ConvexOptimization2024).
-
-## Homework
-
-In addition to the lab tasks, you will find four homework assignments in this repository.
-
 ## Structure
 This repository is organized as follows:
 
